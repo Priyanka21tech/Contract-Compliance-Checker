@@ -34,3 +34,7 @@ An AI-powered contract compliance system built using Salesforce Agentforce that 
 - Reduces manual contract review effort
 - Improves compliance accuracy
 - Enables faster risk identification
+
+<img width="1888" height="689" alt="Screenshot 2026-03-19 172243" src="https://github.com/user-attachments/assets/e3bce656-22af-433e-b6a4-140c8d2cd209" />
+<img width="1900" height="745" alt="Screenshot 2026-03-19 160806" src="https://github.com/user-attachments/assets/6cfd69a7-0b07-41e8-a033-b66dc09ddcd1" />
+
